@@ -67,7 +67,7 @@ UTCloud是一个基于C++（使用Boost库、libcurl和libzip）的客户端和P
 
 ```php
 define('TOKEN', '123456'); // 这里是定义 token 的位置，用来验证你的身份
-define('FILE_PATH', './xa9.zip'); // 这里是定义 file_path 的位置，用来保存和读取你的存档文件的位置，注意要确保php对这个路径有权限
+define('FILE_PATH', './UNDERTALE.zip'); // 这里是定义 file_path 的位置，用来保存和读取你的存档文件的位置，注意要确保php对这个路径有权限
 ```
 
 然后将此PHP文件放置到你的服务器或者虚拟主机的web目录下（名称随意，能访问到即可）。
