@@ -21,7 +21,7 @@ UTCloud是一个基于C++（使用Boost库、libcurl和libzip）的客户端和P
 
 1. **下载程序** 直接下载编译好的程序：[Releases](https://github.com/xa9_top/UTCloud/releases/latest)
 
-2. **配置文件说明** 将`zip.dll`、`zlib.dll`、`UTCloud.exe`放在Undertale游戏根目录，然后运行`UTCloud.exe`。首次启动会生成`UTCloud.ini`，编辑此配置文件：
+3. **配置文件说明** 将`zip.dll`、`zlib.dll`、`UTCloud.exe`放在Undertale游戏根目录，然后运行`UTCloud.exe`。首次启动会生成`UTCloud.ini`，编辑此配置文件：
 
    ```ini
    [UTCloud]
@@ -40,6 +40,7 @@ UTCloud是一个基于C++（使用Boost库、libcurl和libzip）的客户端和P
    
    ```
 
+4. **运行程序** 启动时不启动`Undertale.exe`而是`UTCloud.exe`即可(觉得steam正版启动太慢的可以将Undertale目录下的`steam_api.dll`删除或重命名)
    
 
 ### 自己编译
