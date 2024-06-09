@@ -19,7 +19,7 @@ UTCloud是一个基于C++（使用Boost库、libcurl和libzip）的客户端和P
 
 ### 快速开始
 
-1. **下载程序** 直接下载编译好的程序：[Releases](https://github.com/xa9_top/UTCloud/releases/latest)
+1. **下载程序** 直接下载编译好的程序：[Releases](https://github.com/xa9-top/UTCloud/releases/latest)
 
 3. **配置文件说明** 将`zip.dll`、`zlib.dll`、`UTCloud.exe`放在Undertale游戏根目录，然后运行`UTCloud.exe`。首次启动会生成`UTCloud.ini`，编辑此配置文件：
 
@@ -93,7 +93,7 @@ http(s)://<你的服务器域名>/<你的php路径>.php?token=<你定义的token
 
 如果你在使用过程中遇到问题，或者有新的功能建议，欢迎通过以下方式与我们联系：
 
-- 提交Issue至[Github](https://github.com/xa9_top/UTCloud/issues)
+- 提交Issue至[Github](https://github.com/xa9-top/UTCloud/issues)
 - 通过Email联系：[xa9_top@qq.com](mailto:xa9_top@qq.com)
 - 添加QQ群(不是交流群是闲聊群这小项目不值得建一个交流群)：[837177830](https://qm.qq.com/q/R5UGH4P4uy)
 
