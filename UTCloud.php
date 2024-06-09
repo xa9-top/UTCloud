@@ -1,7 +1,7 @@
 <?php
 
 define('TOKEN', '123456'); // 这里是定义 token 的位置，用来验证你的身份
-define('FILE_PATH', './Undertale.zip'); // 这里是定义 file_path 的位置，用来保存和读取你的存档文件的地方，注意要确保php对这个路径有权限
+define('FILE_PATH', './UNDERTALE.zip'); // 这里是定义 file_path 的位置，用来保存和读取你的存档文件的地方，注意要确保php对这个路径有权限
 
 // 设置错误处理
 set_error_handler(function($errno, $errstr, $errfile, $errline) {
